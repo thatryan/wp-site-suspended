@@ -23,9 +23,11 @@ To edit the message displayed to visitors, just edit it in the file,
 ## What Does It Look LIke
 
 ![Default View](screenshots/default-view.png)
+
 Default view
 
 ![With Customizer View](screenshots/with-customizer.png)
+
 View in conjunction with [Simple Login Customizer](https://github.com/thatryan/simple-login-customizer)
 
 That is all for now!
